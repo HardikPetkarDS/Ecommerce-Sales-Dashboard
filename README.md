@@ -1,32 +1,49 @@
-# E-Commerce Sales Dashboard (Power BI + SQL)
+# 📊 E-Commerce Sales Dashboard (Power BI + SQL)
 
-## 📊 Project Overview
-Built an interactive E-commerce Sales Dashboard using Power BI and SQL to analyze customer contribution, sales trends, and Pareto analysis.
+## 🔍 Project Overview
+Built an interactive E-commerce Sales Dashboard using Power BI and SQL to analyze customer behavior, sales trends, and revenue contribution.
 
-## 🔧 Tools Used
-- Power BI
-- SQL
-- DAX
-- Data Modeling
+---
 
-## 📌 Key Features
-- KPI Cards (Total Sales, Customers, Transactions, Avg Order Size)
-- Pareto Analysis (Top 80% Customers)
-- Monthly Sales Trend
-- Top N Customer Filtering
-- Dark Themed Executive Dashboard
+## 🎯 Business Objective
+To convert raw transaction data into actionable insights for improving sales strategy and customer targeting.
 
-## 📈 Business Insights
-- Identified top 20% customers contributing to 80% revenue
-- Analyzed sales growth month-over-month
-- Measured average order size for profitability insights
+---
 
-## 🗄 SQL Work
-- Data extraction using JOINs
-- Aggregation queries
-- Group by analysis
-- Customer ranking logic
+## 🛠️ Tools & Technologies
+- Power BI (Dashboard & Visualization)
+- SQL (Data Analysis)
+- DAX (KPIs & Pareto Analysis)
+- Excel/CSV (Data Source)
 
-## 📎 Project Files
-- Power BI Dashboard (.pbix)
-- SQL Queries
+---
+
+## 📈 Key KPIs
+- Total Sales
+- Total Customers
+- Total Transactions
+- Average Order Value (AOV)
+
+---
+
+## 📊 Key Insights
+- Top 20% customers contributed ~80% of total revenue (Pareto Analysis)
+- Identified high-performing product categories
+- Detected customer purchase patterns for better targeting
+
+---
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](Screenshot 2026-02-26 182339.png)
+
+---
+
+## 🚀 How to Use
+1. Open `.pbix` file in Power BI Desktop
+2. Load dataset if required
+3. Explore interactive dashboard
+
+---
+
+## 📌 Project Status
+✅ Completed
